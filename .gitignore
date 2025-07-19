@@ -1,0 +1,9 @@
+/*
+/*/
+*.pyc
+
+!README.md
+!.gitignore
+
+!src/
+!requirements.txt
